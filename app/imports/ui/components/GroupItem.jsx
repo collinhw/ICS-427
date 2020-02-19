@@ -8,9 +8,9 @@ class GroupItem extends React.Component {
   render() {
     return (
         <Table.Row>
-          <Table.Cell>{this.props.group.name}</Table.Cell>
-          <Table.Cell>{this.props.group.quantity}</Table.Cell>
-          <Table.Cell>{this.props.group.condition}</Table.Cell>
+          <Table.Cell>{this.props.group.className}</Table.Cell>
+          <Table.Cell>{this.props.group.location}</Table.Cell>
+          <Table.Cell>{this.props.group.time}</Table.Cell>
           <Table.Cell>
             <Link to={`/edit/${this.props.group._id}`}>Edit</Link>
           </Table.Cell>

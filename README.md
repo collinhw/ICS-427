@@ -17,4 +17,17 @@ Welcome to "Never Alone", our ICS 427 Project that focuses on making study group
 * creating a user profile page
 
 ### Assigned Duties
+Collin
+* Add Study Group Function
+* Remove Study Group Function
+Pending: 
+
+Jarrin
+* Landing Page
+* List Study Group Function
+
+Olivia
+* User Register Page
+* User Login Page
+
 

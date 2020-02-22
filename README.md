@@ -20,14 +20,19 @@ Welcome to "Never Alone", our ICS 427 Project that focuses on making study group
 Collin
 * Add Study Group Function
 * Remove Study Group Function
-Pending: 
+
+Pending: Revise the add and delete study group function to match the listing page.
 
 Jarrin
 * Landing Page
 * List Study Group Function
 
+Pending: Cleanup the UI and complete the landing page.
+
 Olivia
 * User Register Page
 * User Login Page
+
+Pending: Create the user profile page function.
 
 

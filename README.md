@@ -36,6 +36,45 @@ Olivia
 Pending: Create the user profile page function.
 
 ## 02/25/2020 - 03/08/2020
+
+### Progress
+* added student profile listings
+* revised landing page
+
+### Pending
+* Fix list groups page due to ongoing bug
+* Revise UI clarity.
+
+### Roles and Responsibilities
+Collin
+New Completetions:
+* Add Profile Page
+
+Current:
+* Fixing add group and listing bug.
+
+Next:
+* Revise UI clarity
+
+Jarrin
+New Completetions:
+*  Revised landing page
+
+Current:
 * 
+
+Next:
+* Revise UI clarity
+
+Pending: Cleanup the UI and complete the landing page.
+
+Olivia:
+New Completetions:
+
+Current:
+
+Next:
+
+
 
 

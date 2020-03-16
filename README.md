@@ -10,8 +10,6 @@ Welcome to "Never Alone", our ICS 427 Project that focuses on making study group
 * List Study Group Function
 * Basic Landing Page
 
-02/25/2020 - 03/08/2020
-
 ### What is pending?
 * Completing Landing Page
 * Cleaning up the user interface for the "add" and "list" pages.
@@ -36,5 +34,8 @@ Olivia
 * User Login Page
 
 Pending: Create the user profile page function.
+
+### 02/25/2020 - 03/08/2020
+* 
 
 

@@ -47,6 +47,7 @@ Pending: Create the user profile page function.
 
 ### Roles and Responsibilities
 Collin
+
 New Completetions:
 * Add Profile Page
 
@@ -57,6 +58,7 @@ Next:
 * Revise UI clarity
 
 Jarrin
+
 New Completetions:
 *  Revised landing page
 

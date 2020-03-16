@@ -35,7 +35,7 @@ Olivia
 
 Pending: Create the user profile page function.
 
-#### 02/25/2020 - 03/08/2020
+## 02/25/2020 - 03/08/2020
 * 
 
 

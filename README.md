@@ -72,11 +72,11 @@ Pending: Cleanup the UI and complete the landing page.
 
 Olivia:
 New Completetions:
-
+* 
 Current:
-
+* User Register Page
 Next:
-
-
+* User Login Page
+* User Profile Page
 
 

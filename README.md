@@ -79,4 +79,26 @@ Next:
 * User Login Page
 * User Profile Page
 
+## Project Conclusion
+  As the semester is coming to a close there are a few things to do in our backlog.
+ 
+Olivia
+* Finalizing the Incident Reponse Plan
+
+Collin
+* Finishing up with the Final Security Review
+
+Jarrin
+* Pushing towards the first release
+
+### Installing the App
+
+### Final Thoughts
+  Spring 2020 was an interesting semester that took quite the turn halfway through the semester. But we were able to overcome outside variables to deliver a product for students to use so that they no longer have to be alone. Although some parts of the app remain less than desired, the main idea and functions are there.
+
+## Links
+[Online Repository]: https://github.com/collinhw/ICS-427
+[Documentation File]: 
+[First Release]:
+[Wiki]: https://github.com/collinhw/ICS-427/wiki
 

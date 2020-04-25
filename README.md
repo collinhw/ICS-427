@@ -48,7 +48,7 @@ Pending: Create the user profile page function.
 ### Roles and Responsibilities
 Collin
 
-New Completetions:
+New Completions:
 * Add Profile Page
 
 Current:
@@ -59,7 +59,7 @@ Next:
 
 Jarrin
 
-New Completetions:
+New Completions:
 *  Revised landing page
 
 Current:
@@ -71,7 +71,7 @@ Next:
 Pending: Cleanup the UI and complete the landing page.
 
 Olivia:
-New Completetions:
+New Completions:
 * 
 Current:
 * User Register Page
@@ -83,7 +83,7 @@ Next:
   As the semester is coming to a close there are a few things to do in our backlog.
  
 Olivia
-* Finalizing the Incident Reponse Plan
+* Finalizing the Incident Response Plan
 
 Collin
 * Finishing up with the Final Security Review

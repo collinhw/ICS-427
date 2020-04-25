@@ -93,6 +93,14 @@ Jarrin
 
 ### Installing the App
 
+First, install Meteor.
+
+Next, you may download the release of the program here.
+
+cd into the app/ directory of the repo and install the Meteor libraries using: meteor npm install
+
+Finally, once the Meteor libraries are installed, start the application with: meteor npm run start
+
 ### Final Thoughts
   Spring 2020 was an interesting semester that took quite the turn halfway through the semester. But we were able to overcome outside variables to deliver a product for students to use so that they no longer have to be alone. Although some parts of the app remain less than desired, the main idea and functions are there.
 

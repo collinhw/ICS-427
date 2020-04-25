@@ -108,5 +108,5 @@ Finally, once the Meteor libraries are installed, start the application with: me
 * [Online Repository](https://github.com/collinhw/ICS-427)
 * [Documentation File]() 
 * [First Release](https://github.com/collinhw/ICS-427/releases)
-* [Wiki]()(https://github.com/collinhw/ICS-427/wiki)
+* [Wiki](https://github.com/collinhw/ICS-427/wiki)
 

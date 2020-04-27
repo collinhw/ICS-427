@@ -106,7 +106,7 @@ Finally, once the Meteor libraries are installed, start the application with: me
 
 ## Links
 * [Online Repository](https://github.com/collinhw/ICS-427)
-* [Documentation File]() 
+* [Documentation File](https://github.com/collinhw/ICS-427/blob/master/ICS%20427%20Never%20Alone%20Documentation.pdf) 
 * [First Release](https://github.com/collinhw/ICS-427/releases)
 * [Wiki](https://github.com/collinhw/ICS-427/wiki)
 
